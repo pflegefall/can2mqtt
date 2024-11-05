@@ -10238,7 +10238,7 @@
     "Sender": "180",
     "Receiver": "6BC",
     "Unit": "",
-    "Converter": "Bool",
+    "Converter": "Binary",
     "Name": {
       "EN": "OperationStatus",
       "DE": "Betriebsstatus"
